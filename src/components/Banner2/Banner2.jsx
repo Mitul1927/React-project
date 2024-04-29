@@ -10,18 +10,23 @@ const Banner2 = () => {
             <div className="space-y-5 sm:p-16 pb-6">
               <div data-aos="zoom-in" className="flex items-center gap-4">
                 <div className="text-primary/70 text-7xl ">
-                  <h1 className="font-bold">01</h1>
+                  <h1 className="font-bold">02</h1>
                 </div>
                 <div>
                   <p className="text-primary">Global Fitness</p>
-                  <h1 className="text-2xl sm:text-4xl font-bold">About us</h1>
+                  <h1 className="text-2xl sm:text-4xl font-bold">
+                    Why choose us
+                  </h1>
                 </div>
               </div>
               <p data-aos="fade-up" className="leading-8 tracking-wide">
-                "I've tried a few gyms in the area, but this one exceeded my
+                {/* "I've tried a few gyms in the area, but this one exceeded my
                 expectations. The staff is incredibly friendly and helpful, and
                 the classes are both challenging and fun. It's become my second
-                home!"
+                home!" */}
+                choose our gym for top-notch equipment , expert trainers , and
+                personalized plans tailored to your goals. Join us and unlock
+                your fitness potential today.
               </p>
               {/* <p data-aos="fade-up" data-aos-delay="300">
                 Lorem ipsum dolor sit amet consectetur adipisicing elit. Sequi,
